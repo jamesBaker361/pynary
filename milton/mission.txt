@@ -1,0 +1,12 @@
+https://en.wikipedia.org/wiki/Natural_language_processing
+
+So we're going to build an AI that can take questions about some wikipedia article about Milton Friedman
+(https://en.wikipedia.org/wiki/Milton_Friedman)
+And then answer them
+
+This requires:
+
+Understanding what the question is thats being asked
+
+Learning Information about the Friedman article:
+1. Relationship Extraction https://arxiv.org/pdf/1601.00770.pdf
